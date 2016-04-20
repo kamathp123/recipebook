@@ -10,7 +10,7 @@ Rails.application.routes.draw do
   end
 
 
-
+ 
 
  root "recipes#index"
 end
